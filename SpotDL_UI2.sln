@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotDL_UI2", "SpotDL_UI2\SpotDL_UI2.csproj", "{DFA37C3D-9ADB-44D1-942A-C121528D1C96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA37C3D-9ADB-44D1-942A-C121528D1C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA37C3D-9ADB-44D1-942A-C121528D1C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA37C3D-9ADB-44D1-942A-C121528D1C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA37C3D-9ADB-44D1-942A-C121528D1C96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA82175-CBC1-4AC0-AE3D-FA2C228CDA06}
+	EndGlobalSection
+EndGlobal
