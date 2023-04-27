@@ -119,7 +119,7 @@ namespace SpotDL_UI2
         private void tbDownload_Click(object sender, EventArgs e)
         {
             string URL = this.tbURL.Text;
-            sendQueryToSpotdl(URL, true);
+            sendQueryToSpotdl(URL, false);
         }
 
         private void cbAutoDL_CheckedChanged(object sender, EventArgs e)
