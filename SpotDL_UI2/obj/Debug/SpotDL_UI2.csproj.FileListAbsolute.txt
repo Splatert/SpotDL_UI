@@ -1,10 +1,10 @@
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\bin\Debug\SpotDL_UI2.exe.config
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\bin\Debug\SpotDL_UI2.exe
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\bin\Debug\SpotDL_UI2.pdb
-C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.csproj.AssemblyReference.cache
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.Form1.resources
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.Properties.Resources.resources
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.csproj.GenerateResource.cache
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.csproj.CoreCompileInputs.cache
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.exe
 C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.pdb
+C:\Users\adamk\source\repos\SpotDL_UI2\SpotDL_UI2\obj\Debug\SpotDL_UI2.csproj.AssemblyReference.cache
